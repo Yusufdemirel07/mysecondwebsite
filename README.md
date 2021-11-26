@@ -2,4 +2,4 @@
 
 [Kodluyoruz](https://www.kodluyoruz.org/) eğitimlerinden yararlanarak oluşturduğum ikinci web sitesi
 
-![secondwebsite](website2.png)
+![secondwebsite](C:\Users\soner\Documents\sites\mysecondwebsite\website2.png)
